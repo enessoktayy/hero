@@ -1,0 +1,1 @@
+Figma'daki hero adlı tasarımı kodlayacağım. Ekstra branch açıp merge yapmadan direkt master branchinde çalışacağım.
